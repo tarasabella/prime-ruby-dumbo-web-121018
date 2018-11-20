@@ -12,7 +12,6 @@ def prime?(num)
     end
   end
 end
-
 puts prime?(432)
 #prime number is a number greater than 1 that can only be divided by 1 and itself
 #create a range of numbers that can be turned into an array to be iterated over 
